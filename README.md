@@ -20,7 +20,6 @@ Welcome to the TechnicalGuides repository! This is a curated collection of tutor
 To make the most out of this repository, ensure you have the following tools installed:
 
 - **Git**: Version control system ([Installation Guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)).
-- **Conda**: For package and environment management ([Installation Guide](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)).
 
 ### Cloning the Repository
 
