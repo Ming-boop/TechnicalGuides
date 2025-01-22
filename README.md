@@ -48,9 +48,7 @@ Contributions are welcome! If you have suggestions or want to add your experienc
 
 ## 🛠️ Future Plans
 
-- Expand tutorials to cover more technical topics.
-- Include video walkthroughs and code examples.
-- Create a section for frequently asked questions.
+- Expand tutorials to cover more technical topics, like Git & GitHub, C++ and Python.
 
 ---
 
